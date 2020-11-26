@@ -8,16 +8,20 @@ This repository contains pointers to various datasets of adposition/case superse
 
 * _The Little Prince_: Annotation is underway.
 
-* Reddit sample: Annotation is underway.
+* [PASTRIE](https://github.com/nert-nlp/pastrie) (Reddit international English). Citation: [Kranzlein et al. LAW 2020](http://people.cs.georgetown.edu/nschneid/p/pastrie.pdf)
 
 ## Mandarin Chinese
 
-* [Chinese _Little Prince_](https://github.com/nert-nlp/Chinese-SNACS/). Citation: [Peng et al. LREC 2020](http://people.cs.georgetown.edu/nschneid/p/zhp.pdf)
+* [Chinese _Little Prince_](https://github.com/nert-nlp/Chinese-SNACS/). Citation: [Peng et al. LREC 2020](https://www.aclweb.org/anthology/2020.lrec-1.733)
 
 ## Korean
 
-* Korean _Little Prince_: Annotation is underway.
+* [Korean _Little Prince_](https://github.com/jdch00/k-snacs). Citation: Hwang et al. DMR 2020. To appear.
 
 ## German
 
 * _Der kleine Prinz_: Annotation is underway.
+
+## Hindi
+
+* Hindi _Little Prince_: Annotation is underway.
