@@ -8,7 +8,7 @@ This repository contains pointers to various datasets of adposition/case superse
 
 * _The Little Prince_: Annotation is underway.
 
-* [PASTRIE](https://github.com/nert-nlp/pastrie) (Reddit international English). Citation: [Kranzlein et al. LAW 2020](http://people.cs.georgetown.edu/nschneid/p/pastrie.pdf)
+* [PASTRIE](https://github.com/nert-nlp/pastrie) (Reddit international English). Citation: [Kranzlein et al. LAW 2020](https://www.aclweb.org/anthology/2020.law-1.10)
 
 ## Mandarin Chinese
 
@@ -16,7 +16,7 @@ This repository contains pointers to various datasets of adposition/case superse
 
 ## Korean
 
-* [_어린왕자(Eolin Wangja) [The Little Prince]_](https://github.com/jdch00/k-snacs). Citation: [Hwang et al. DMR 2020](https://www.aclweb.org/anthology/2020.dmr-1.6/)
+* [_어린왕자(Eolin Wangja) [The Little Prince]_](https://github.com/jdch00/k-snacs). Citation: [Hwang et al. DMR 2020](https://www.aclweb.org/anthology/2020.dmr-1.6)
 
 ## German
 
