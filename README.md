@@ -12,11 +12,11 @@ This repository contains pointers to various datasets of adposition/case superse
 
 ## Mandarin Chinese
 
-* [Chinese _Little Prince_](https://github.com/nert-nlp/Chinese-SNACS/). Citation: [Peng et al. LREC 2020](https://www.aclweb.org/anthology/2020.lrec-1.733)
+* [_小王子(Xiǎo Wáng Zǐ) [The Little Prince]_](https://github.com/nert-nlp/Chinese-SNACS/). Citation: [Peng et al. LREC 2020](https://www.aclweb.org/anthology/2020.lrec-1.733)
 
 ## Korean
 
-* [Korean _Little Prince_](https://github.com/jdch00/k-snacs). Citation: Hwang et al. DMR 2020. To appear.
+* [_어린왕자(Eolin Wangja) [The Little Prince]_](https://github.com/jdch00/k-snacs). Citation: [Hwang et al. DMR 2020](https://www.aclweb.org/anthology/2020.dmr-1.6/)
 
 ## German
 
