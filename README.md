@@ -16,7 +16,7 @@ This repository contains pointers to various datasets of adposition/case superse
 
 ## Korean
 
-* [_어린왕자(Eolin Wangja) [The Little Prince]_](https://github.com/jdch00/k-snacs). Citation: [Hwang et al. DMR 2020](https://www.aclweb.org/anthology/2020.dmr-1.6)
+* [_어린왕자(Erin Wangca) [The Little Prince]_](https://github.com/jdch00/k-snacs). Citation: [Hwang et al. DMR 2020](https://www.aclweb.org/anthology/2020.dmr-1.6)
 
 ## German
 
