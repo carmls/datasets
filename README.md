@@ -2,7 +2,9 @@
 
 This repository contains pointers to various datasets of adposition/case supersenses in multiple languages.
 
-## English
+The name of the language links to annotation guidelines if available.
+
+## [English](https://arxiv.org/abs/1704.02134)
 
 * [STREUSLE](https://github.com/nert-nlp/streusle/): Online reviews section of the English Web Treebank, obtained from the [Universal Dependencies](http://universaldependencies.org/) project. STREUSLE is fully annotated with SNACS (as well as other lexical semantic annotations) and served as the primary reference corpus in developing the [English SNACS guidelines](https://arxiv.org/abs/1704.02134). Citation: [Schneider et al. ACL 2018](http://aclweb.org/anthology/P18-1018)
 
@@ -22,6 +24,6 @@ This repository contains pointers to various datasets of adposition/case superse
 
 * _Der kleine Prinz_: Annotation is underway.
 
-## Hindi
+## [Hindi](https://arxiv.org/abs/2103.01399)
 
 * Hindi _Little Prince_: Annotation is underway.
