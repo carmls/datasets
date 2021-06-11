@@ -22,7 +22,7 @@ The name of the language links to annotation guidelines if available.
 
 ## German
 
-* _Der kleine Prinz_: Annotation is underway.
+* [_Der kleine Prinz [The Little Prince]_](https://github.com/nert-nlp/German-SNACS): Annotation is underway. Citation: [Prange and Schneider *Künstliche Intelligenz* 2021](https://doi.org/10.1007/s13218-021-00712-y)
 
 ## [Hindi](https://arxiv.org/abs/2103.01399)
 
@@ -31,4 +31,5 @@ The name of the language links to annotation guidelines if available.
 
 # References
 
-* Schneider, Nathan, Jena D. Hwang, Vivek Srikumar, Jakob Prange, Austin Blodgett, Sarah Moeller, Aviram Stern, Adi Shalev, and Omri Abend. "[Comprehensive Supersense Disambiguation of English Prepositions and Possessives](http://aclweb.org/anthology/P18-1018)." In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 185-196. 2018.
+* Jakob Prange and Nathan Schneider. "[Draw *mir* a sheep: a supersense-based analysis of German case and adposition semantics](https://doi.org/10.1007/s13218-021-00712-y)." In _KI - Künstliche Intelligenz_ 35(2). June 2021.
+* Nathan Schneider, Jena D. Hwang, Vivek Srikumar, Jakob Prange, Austin Blodgett, Sarah Moeller, Aviram Stern, Adi Shalev, and Omri Abend. "[Comprehensive Supersense Disambiguation of English Prepositions and Possessives](http://aclweb.org/anthology/P18-1018)." _In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics_, pp. 185-196. 2018.
