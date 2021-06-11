@@ -27,3 +27,8 @@ The name of the language links to annotation guidelines if available.
 ## [Hindi](https://arxiv.org/abs/2103.01399)
 
 * Hindi _Little Prince_: Annotation is underway.
+
+
+# References
+
+* Schneider, Nathan, Jena D. Hwang, Vivek Srikumar, Jakob Prange, Austin Blodgett, Sarah Moeller, Aviram Stern, Adi Shalev, and Omri Abend. "[Comprehensive Supersense Disambiguation of English Prepositions and Possessives](http://aclweb.org/anthology/P18-1018)." In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 185-196. 2018.
