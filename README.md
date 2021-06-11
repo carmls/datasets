@@ -31,5 +31,6 @@ The name of the language links to annotation guidelines if available.
 
 # References
 
+* Kranzlein, Michael, Emma Manning, Siyao Peng, Shira Wein, Aryaman Arora, and Nathan Schneider. "[PASTRIE: A Corpus of Prepositions Annotated with Supersense Tags in Reddit International English](https://www.aclweb.org/anthology/2020.law-1.10/)." In Proceedings of the 14th Linguistic Annotation Workshop, pp. 105-116. 2020.
 * Jakob Prange and Nathan Schneider. "[Draw *mir* a sheep: a supersense-based analysis of German case and adposition semantics](https://doi.org/10.1007/s13218-021-00712-y)." In _KI - Künstliche Intelligenz_ 35(2). June 2021.
 * Nathan Schneider, Jena D. Hwang, Vivek Srikumar, Jakob Prange, Austin Blodgett, Sarah Moeller, Aviram Stern, Adi Shalev, and Omri Abend. "[Comprehensive Supersense Disambiguation of English Prepositions and Possessives](http://aclweb.org/anthology/P18-1018)." _In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics_, pp. 185-196. 2018.
