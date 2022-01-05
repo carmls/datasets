@@ -8,7 +8,8 @@ The name of the language links to annotation guidelines if available. The guidel
 
 * [STREUSLE](https://github.com/nert-nlp/streusle/): Online reviews section of the English Web Treebank, obtained from the [Universal Dependencies](http://universaldependencies.org/) project. STREUSLE is fully annotated with SNACS (as well as other lexical semantic annotations) and served as the primary reference corpus in developing the [English SNACS guidelines](https://arxiv.org/abs/1704.02134). {EN v2.5} Citation: [Schneider et al. ACL 2018](http://aclweb.org/anthology/P18-1018)
 
-* _The Little Prince_: Annotation is underway.
+* [_The Little Prince_](https://github.com/nert-nlp/English-Little-Prince-SNACS): {EN v2.5} All except Ch. 1, 4, 5, which are TBD.
+   - Ch. 1, 4, and 5 were annotated in a pilot phase with older guidelines, as described in [Schneider et al. ACL 2018](http://aclweb.org/anthology/P18-1018), and need to be updated.
 
 * [PASTRIE](https://github.com/nert-nlp/pastrie) (Reddit international English).  {EN v2.5} Citation: [Kranzlein et al. LAW 2020](https://www.aclweb.org/anthology/2020.law-1.10)
 
