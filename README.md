@@ -27,7 +27,7 @@ The name of the language links to annotation guidelines if available. The guidel
 
 ## [Hindi](https://arxiv.org/abs/2103.01399)
 
-* Hindi _Little Prince_: Annotation is underway.
+* [नन्हा राजकुमार(Nanhā Rājkumār) _[The Little Prince]_](https://github.com/aryamanarora/carmls-hi). {HI v1.0 based on EN v2.5}
 
 
 # References
