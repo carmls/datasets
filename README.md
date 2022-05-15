@@ -27,13 +27,14 @@ The name of the language links to annotation guidelines if available. The guidel
 
 ## [Hindi](https://arxiv.org/abs/2103.01399)
 
-* [नन्हा राजकुमार(Nanhā Rājkumār) _[The Little Prince]_](https://github.com/aryamanarora/carmls-hi). {HI v1.0 based on EN v2.5}
+* [नन्हा राजकुमार(Nanhā Rājkumār) _[The Little Prince]_](https://github.com/aryamanarora/carmls-hi). {HI v1.0 based on EN v2.5} Citation: [Arora et al. LREC 2022](https://arxiv.org/abs/2205.03955)
 
 
 # References
 
-* Hwang, Jena D., Hanwool Choe, Na-Rae Han, and Nathan Schneider. "[K-SNACS: Annotating Korean adposition semantics](https://www.aclweb.org/anthology/2020.dmr-1.6/)." In Proceedings of the Second International Workshop on Designing Meaning Representations, pp. 53-66. 2020.
-* Kranzlein, Michael, Emma Manning, Siyao Peng, Shira Wein, Aryaman Arora, and Nathan Schneider. "[PASTRIE: A Corpus of Prepositions Annotated with Supersense Tags in Reddit International English](https://www.aclweb.org/anthology/2020.law-1.10/)." In Proceedings of the 14th Linguistic Annotation Workshop, pp. 105-116. 2020.
-* Peng, Siyao, Yang Liu, Yilun Zhu, Austin Blodgett, Yushi Zhao, and Nathan Schneider. "[A Corpus of Adpositional Supersenses for Mandarin Chinese](https://www.aclweb.org/anthology/2020.lrec-1.733)." In Proceedings of The 12th Language Resources and Evaluation Conference, pp. 5986-5994. 2020.
-* Prange, Jakob, and Nathan Schneider. "[Draw *mir* a sheep: a supersense-based analysis of German case and adposition semantics](https://doi.org/10.1007/s13218-021-00712-y)." KI-Künstliche Intelligenz. 2021.
-* Schneider, Nathan, Jena D. Hwang, Vivek Srikumar, Jakob Prange, Austin Blodgett, Sarah Moeller, Aviram Stern, Adi Shalev, and Omri Abend. "[Comprehensive Supersense Disambiguation of English Prepositions and Possessives](http://aclweb.org/anthology/P18-1018)." In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 185-196. 2018.
+* Jena D. Hwang, Hanwool Choe, Na-Rae Han, and Nathan Schneider. "[K-SNACS: Annotating Korean adposition semantics](https://www.aclweb.org/anthology/2020.dmr-1.6/)." In Proceedings of the Second International Workshop on Designing Meaning Representations, pp. 53-66. 2020.
+* Michael Kranzlein, Emma Manning, Siyao Peng, Shira Wein, Aryaman Arora, and Nathan Schneider. "[PASTRIE: A Corpus of Prepositions Annotated with Supersense Tags in Reddit International English](https://www.aclweb.org/anthology/2020.law-1.10/)." In Proceedings of the 14th Linguistic Annotation Workshop, pp. 105-116. 2020.
+* Siyao Peng, Yang Liu, Yilun Zhu, Austin Blodgett, Yushi Zhao, and Nathan Schneider. "[A Corpus of Adpositional Supersenses for Mandarin Chinese](https://www.aclweb.org/anthology/2020.lrec-1.733)." In Proceedings of The 12th Language Resources and Evaluation Conference, pp. 5986-5994. 2020.
+* Jakob Prange and Nathan Schneider. "[Draw *mir* a sheep: a supersense-based analysis of German case and adposition semantics](https://doi.org/10.1007/s13218-021-00712-y)." KI-Künstliche Intelligenz. 2021.
+* Nathan Schneider, Jena D. Hwang, Vivek Srikumar, Jakob Prange, Austin Blodgett, Sarah Moeller, Aviram Stern, Adi Shalev, and Omri Abend. "[Comprehensive Supersense Disambiguation of English Prepositions and Possessives](http://aclweb.org/anthology/P18-1018)." In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 185-196. 2018.
+* Aryaman Arora, Aryaman Arora, Nitin Venkateswaran, and Nathan Schneider. "[MASALA: Modelling and Analysing the Semantics of Adpositions in Linguistic Annotation of Hindi [preprint]](https://arxiv.org/abs/2205.03955)." In Proceedings of The 13th Language Resources and Evaluation Conference. 2022.
