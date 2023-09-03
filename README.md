@@ -27,8 +27,20 @@ The name of the language links to annotation guidelines if available. The guidel
 
 ## [Hindi](https://arxiv.org/abs/2103.01399)
 
-* [नन्हा राजकुमार(Nanhā Rājkumār) _[The Little Prince]_](https://github.com/aryamanarora/carmls-hi). {HI v1.0 based on EN v2.5} Citation: [Arora et al. LREC 2022](https://arxiv.org/abs/2205.03955)
+* [नन्हा राजकुमार(Nanhā Rājkumār) _[The Little Prince]_](https://github.com/aryamanarora/carmls-hi). {HI v1.0 based on EN v2.5} Citation: [Arora et al. LREC 2022](https://aclanthology.org/2022.lrec-1.612)
 
+## [Gujarati](https://aclanthology.org/2023.findings-acl.696.pdf#PAX@./papers/5830.pax@72)
+
+* [નાનકડો રાજકુમાર(Nānakado Rājakumār) _[The Little Prince]_](https://github.com/utahnlp/weak-verifiers). {based on HI v1.0/EN v2.5} Citation: [Mehta and Srikumar ACL Findings 2023](https://aclanthology.org/2023.findings-acl.696)
+
+## Finnish, Latin (partial)
+
+<https://github.com/dchensta/adpositions_case> contains two datasets:
+
+* **Finnish:** [Pikku Prinssi _[The Little Prince]_](https://github.com/dchensta/adpositions_case/blob/main/full_annotations/pp_4-5.csv), chapters 4 and 5. {based on EN v2.5}
+* **Latin:** [Regulus _[The Little Prince]_](https://github.com/dchensta/adpositions_case/blob/main/full_annotations/regulus_4-5.csv), chapters 4 and 5. {based on EN v2.5}
+
+Citation: [Chen and Hulden LREC 2022](https://aclanthology.org/2022.lrec-1.279)
 
 # References
 
@@ -37,4 +49,6 @@ The name of the language links to annotation guidelines if available. The guidel
 * Siyao Peng, Yang Liu, Yilun Zhu, Austin Blodgett, Yushi Zhao, and Nathan Schneider. "[A Corpus of Adpositional Supersenses for Mandarin Chinese](https://www.aclweb.org/anthology/2020.lrec-1.733)." In Proceedings of The 12th Language Resources and Evaluation Conference, pp. 5986-5994. 2020.
 * Jakob Prange and Nathan Schneider. "[Draw *mir* a sheep: a supersense-based analysis of German case and adposition semantics](https://doi.org/10.1007/s13218-021-00712-y)." _KI-Künstliche Intelligenz_ 35(291–306). 2021.
 * Nathan Schneider, Jena D. Hwang, Vivek Srikumar, Jakob Prange, Austin Blodgett, Sarah Moeller, Aviram Stern, Adi Shalev, and Omri Abend. "[Comprehensive Supersense Disambiguation of English Prepositions and Possessives](http://aclweb.org/anthology/P18-1018)." In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 185-196. 2018.
-* Aryaman Arora, Aryaman Arora, Nitin Venkateswaran, and Nathan Schneider. "[MASALA: Modelling and Analysing the Semantics of Adpositions in Linguistic Annotation of Hindi](https://aclanthology.org/2022.lrec-1.612)." In Proceedings of The 13th Language Resources and Evaluation Conference, pp. 5696–5704. 2022.
+* Aryaman Arora, Aryaman Arora, Nitin Venkateswaran, and Nathan Schneider. "[MASALA: Modelling and Analysing the Semantics of Adpositions in Linguistic Annotation of Hindi](https://aclanthology.org/2022.lrec-1.612)." In Proceedings of The Thirteenth Language Resources and Evaluation Conference, pp. 5696–5704. 2022.
+* Maitrey Metha and Vivek Srikumar. "[Verifying Annotation Agreement without Multiple Experts: A Case Study with Gujarati SNACS](https://aclanthology.org/2023.findings-acl.696)." In Findings of the Association for Computational Linguistics: ACL 2023, pp. 10941-10958. 2023.
+* Daniel Chen and Mans Hulden. "[My Case, For an Adposition: Lexical Polysemy of Adpositions and Case Markers in Finnish and Latin](https://aclanthology.org/2022.lrec-1.279)". In Proceedings of the Thirteenth Language Resources and Evaluation Conference, pp. 2610-2616. 2022.
