@@ -21,6 +21,10 @@ The name of the language links to annotation guidelines if available. The guidel
 
 * [_어린왕자(Erin Wangca) [The Little Prince]_](https://github.com/jenahwang/k-snacs). {KO v0.9 based on EN v2.5} Citation: [Hwang et al. DMR 2020](https://www.aclweb.org/anthology/2020.dmr-1.6)
 
+## Japanese
+
+* [_星の王子さま(Hoshinoōjisama) [The Little Prince]_](https://github.com/t-aoyam/japanese-snacs). {based on EN v2.6} Ch. 1–10. Citation (paper includes guidelines): [Aoyama et al. LREC-COLING 2024](https://aclanthology.org/2024.lrec-main.839)
+
 ## German
 
 * [_Der kleine Prinz [The Little Prince]_](https://github.com/nert-nlp/German-SNACS). {based on EN v2.0 (superset)/2.5 (revised subset)} Citation (paper includes guidelines): [Prange and Schneider *Künstliche Intelligenz* 2021](https://doi.org/10.1007/s13218-021-00712-y)
@@ -52,3 +56,4 @@ Citation: [Chen and Hulden LREC 2022](https://aclanthology.org/2022.lrec-1.279)
 * Aryaman Arora, Aryaman Arora, Nitin Venkateswaran, and Nathan Schneider. "[MASALA: Modelling and Analysing the Semantics of Adpositions in Linguistic Annotation of Hindi](https://aclanthology.org/2022.lrec-1.612)." In Proceedings of The Thirteenth Language Resources and Evaluation Conference, pp. 5696–5704. 2022.
 * Maitrey Metha and Vivek Srikumar. "[Verifying Annotation Agreement without Multiple Experts: A Case Study with Gujarati SNACS](https://aclanthology.org/2023.findings-acl.696)." In Findings of the Association for Computational Linguistics: ACL 2023, pp. 10941-10958. 2023.
 * Daniel Chen and Mans Hulden. "[My Case, For an Adposition: Lexical Polysemy of Adpositions and Case Markers in Finnish and Latin](https://aclanthology.org/2022.lrec-1.279)". In Proceedings of the Thirteenth Language Resources and Evaluation Conference, pp. 2610-2616. 2022.
+* Tatsuya Aoyama, Chihiro Taguchi, and Nathan Schneider. "[J-SNACS: Adposition and Case Supersenses for Japanese Joshi](https://aclanthology.org/2024.lrec-main.839)." In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pp. 9604–9614. 2024.
