@@ -4,6 +4,10 @@ This repository contains pointers to various datasets of adposition/case superse
 
 The name of the language links to annotation guidelines if available. The guidelines version reflected in the corpus appears {in curly braces}.
 
+## Collected release of English, Gujarati, Hindi, Japanese, Chinese
+
+* <https://github.com/WesScivetti/snacs/tree/main/data>: A collection of [.conllulex](https://github.com/nert-nlp/streusle/blob/master/CONLLULEX.md) files for: English STREUSLE; English PASTRIE; English, Gujarati, Hindi, and Chinese Little Prince (all 27 chapters); and Japanese Little Prince (10 chapters).
+
 ## [English](https://arxiv.org/abs/1704.02134)
 
 * [STREUSLE](https://github.com/nert-nlp/streusle/): Online reviews section of the English Web Treebank, obtained from the [Universal Dependencies](http://universaldependencies.org/) project. STREUSLE is fully annotated with SNACS (as well as other lexical semantic annotations) and served as the primary reference corpus in developing the [English SNACS guidelines](https://arxiv.org/abs/1704.02134). {EN v2.6} Citation: [Schneider et al. ACL 2018](http://aclweb.org/anthology/P18-1018)
@@ -57,3 +61,4 @@ Citation: [Chen and Hulden LREC 2022](https://aclanthology.org/2022.lrec-1.279)
 * Maitrey Metha and Vivek Srikumar. "[Verifying Annotation Agreement without Multiple Experts: A Case Study with Gujarati SNACS](https://aclanthology.org/2023.findings-acl.696)." In Findings of the Association for Computational Linguistics: ACL 2023, pp. 10941-10958. 2023.
 * Daniel Chen and Mans Hulden. "[My Case, For an Adposition: Lexical Polysemy of Adpositions and Case Markers in Finnish and Latin](https://aclanthology.org/2022.lrec-1.279)". In Proceedings of the Thirteenth Language Resources and Evaluation Conference, pp. 2610-2616. 2022.
 * Tatsuya Aoyama, Chihiro Taguchi, and Nathan Schneider. "[J-SNACS: Adposition and Case Supersenses for Japanese Joshi](https://aclanthology.org/2024.lrec-main.839)." In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pp. 9604–9614. 2024.
+* Wesley Scivetti, Lauren Levine, and Nathan Schneider. "[Multilingual Supervision Improves Semantic Disambiguation of Adpositions](https://aclanthology.org/2025.coling-main.247)." In Proceedings of the 31st International Conference on Computational Linguistics (COLING 2025), pp. 3655–3669. 2025.
